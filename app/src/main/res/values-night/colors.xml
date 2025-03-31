@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark mode colors -->
+    <color name="gray_primary">#546E7A</color>
+    <color name="gray_secondary">#37474F</color>
+    <color name="black_background">#212121</color> <!-- Đen nhạt làm nền -->
+    <color name="blue_accent">#4FC3F7</color>
+    <color name="text_primary">#E0E0E0</color> <!-- Văn bản chính (đổi từ text_primary_dark) -->
+    <color name="text_secondary">#B0BEC5</color> <!-- Văn bản phụ (đổi từ text_secondary_dark) -->
+    <color name="text_primary_dark">#E0E0E0</color> <!-- Giữ đồng bộ -->
+    <color name="text_secondary_dark">#B0BEC5</color> <!-- Giữ đồng bộ -->
+</resources>
